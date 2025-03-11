@@ -1,9 +1,7 @@
-<html>
-    <head>
-        <title>This is DevOps Lab</title>
-    </head>
-    <body>
-        <p>This is 1st lab program</p>
-        <p>This is 4th sem</p>
-    </body>
-</html>
+/* This is a simple CSS code */
+body {
+    background-color: lightblue; /* Sets the background color to light blue */
+    color: darkblue; /* Changes the text color to dark blue */
+    font-family: Arial, sans-serif; /* Sets the font */
+    text-align: center; /* Aligns text to the center */
+}
